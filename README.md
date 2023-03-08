@@ -1,2 +1,2 @@
 # Higher_lower_game_flask
-This program uses Flask to render HTML text and to output different content depending on the URL entered.
+This program uses Flask to render HTML text and to output different content depending on the URL entered. In this case, a random number is generated in the code. Then a Flask server is run to show the heading page, where the user is prompted to enter a number after the URL to guess the number. Depending on the entry, different hints appear, eventually leading the user to correctly guess the number. 
